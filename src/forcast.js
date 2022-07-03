@@ -35,7 +35,7 @@ function Forcast(props) {
   };
 
   useEffect(() => {
-    search("Dubai");
+    search("Toronto");
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
